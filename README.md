@@ -5,7 +5,7 @@ Frontend Developer
   
 ---
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/diobrando482/github-profilinator)  
+ 
   
 -  ✉️  You can contact me at [dilet5748@gmail.com](mailto:dilet5748@gmail.com) 
 
