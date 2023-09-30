@@ -1,6 +1,6 @@
 # Hi My name is Adilet 
 
-junior
+I'm junior
 Frontend Developer
   
 ---
