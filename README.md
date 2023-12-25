@@ -9,7 +9,7 @@ Frontend Developer
   
 -  ✉️  You can contact me at [dilet5748@gmail.com](mailto:dilet5748@gmail.com) 
 
-- ❓ Ask me about anything Frontend  
+- ❓ Ask me anything about Frontend  
    
   
 
