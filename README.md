@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+  
   
 
 ### <div align="center">I'm Adilet and i want to get a job as a Full Stack developer</div>  
