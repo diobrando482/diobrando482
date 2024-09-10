@@ -1,7 +1,7 @@
   
   
 
-### <div align="center">I'm Adilet and i want to get a job as a Full Stack developer</div>  
+### <div align="center">I'm Adilet and i want to be a Senior Frontend developer</div>  
   
 
 - I'm currently upgrading my stack in backend development, going through leetcode and preparing for interviews  
