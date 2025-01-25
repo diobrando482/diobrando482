@@ -7,7 +7,7 @@
 - I'm currently upgrading my stack in backend development, going through leetcode and preparing for interviews  
   
 
--  Fun fact: I can I can solve a Rubik's cube  
+-  Fun fact:  I can solve a Rubik's cube  
   
 
 <br/>  
