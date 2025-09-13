@@ -1,7 +1,7 @@
   
   
 
-### <div align="center">I'm Adilet and i junior Frontend Devrloper</div>  
+### <div align="center">I'm Adilet and im a junior Frontend Developer</div>  
   
 
 - I'm currently upgrading my stack in backend development, going through leetcode and preparing for interviews  
